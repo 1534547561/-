@@ -23,3 +23,7 @@ zsh代码补全插件  https://www.jianshu.com/p/aea390c1c8ef
 GitHub图片无法加载  https://blog.csdn.net/qq_38232598/article/details/91346392
 
 修改hosts   sudo vim /etc/hosts
+
+安装pycharm   https://blog.csdn.net/sinat_35866463/article/details/80310486?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control
+
+ubuntu18.04安装和使用Anaconda3（详细） https://blog.csdn.net/weixin_45591044/article/details/104312338
