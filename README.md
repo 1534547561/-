@@ -17,4 +17,5 @@
 安装chromium    sudo apt-get install chromium-browser
 
 安装zsh   https://www.bilibili.com/video/BV1W741117RQ?from=search&seid=6638877960709830504
+
 zsh代码补全插件  https://www.jianshu.com/p/aea390c1c8ef
