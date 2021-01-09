@@ -19,3 +19,7 @@
 安装zsh   https://www.bilibili.com/video/BV1W741117RQ?from=search&seid=6638877960709830504
 
 zsh代码补全插件  https://www.jianshu.com/p/aea390c1c8ef
+
+GitHub图片无法加载  https://blog.csdn.net/qq_38232598/article/details/91346392
+
+修改hosts   sudo vim /etc/hosts
