@@ -24,7 +24,8 @@ Plug 'connorholyday/vim-snazzy'
 
 call plug#end()
 
-color snazzy
+colorscheme snazzy
+
 let g:SnazzyTransparent = 1
 
 set nocompatible
@@ -32,7 +33,7 @@ filetype on
 filetype indent on
 filetype plugin on
 filetype plugin indent on
-set mouse=a
+
 set encoding=utf-8
 let &t_ut=''
 set expandtab
