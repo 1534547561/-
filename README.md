@@ -9,6 +9,8 @@
  安装网易云   https://music.163.com/#/download
  
  安装chromium    sudo apt-get install chromium-browser
+ 
+ 向日葵   https://sunlogin.oray.com/download/
 
 修改hosts   sudo vim /etc/hosts
 
